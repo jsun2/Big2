@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
         addText[1] =  (EditText) findViewById(R.id.add2);
         addText[2] =  (EditText) findViewById(R.id.add3);
         addText[3] =  (EditText) findViewById(R.id.add4);
-        
+
     }
 
     @Override
