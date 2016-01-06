@@ -1,6 +1,10 @@
 /*
     Basic Android app with UI to calculate Big 2 points.
 
+    TODO:
+        make names editable; will have to redo entire UI since relative
+        add scrollable table for each entry that is editable
+
  */
 package com.example.jason.big2;
 
