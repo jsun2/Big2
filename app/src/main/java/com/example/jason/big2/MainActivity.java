@@ -1,3 +1,8 @@
+/*
+    Basic Android app with UI to calculate Big 2 points. 
+
+
+ */
 package com.example.jason.big2;
 
 import android.os.Bundle;
