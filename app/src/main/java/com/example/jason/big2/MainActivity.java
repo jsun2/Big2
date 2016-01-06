@@ -1,7 +1,5 @@
 /*
     Basic Android app with UI to calculate Big 2 points.
-    Change2
-
 
  */
 package com.example.jason.big2;
